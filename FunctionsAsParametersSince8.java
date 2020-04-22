@@ -2,7 +2,7 @@ package javatraining.oletsky.lambdasandstreams;
 
 /**
  * @author O.Oletsky
- * Demonstrating functions as psrameners on the base of functional interfaces
+ * Demonstrating functions as parameters on the base of functional interfaces
  */
 
 import java.util.function.Function;
